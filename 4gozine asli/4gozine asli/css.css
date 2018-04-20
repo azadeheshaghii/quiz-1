@@ -1,0 +1,66 @@
+﻿.y {
+            /*یک باکس تشکیل داده ودو متن داخل ان میویسیم ان را استایل میدهیم*/
+            background-color: greenyellow;
+            color: blue;
+            padding top:5px;
+            padding bottom:5px;
+            padding-left: 20px;
+            /*padding-write: 20px;*/
+            text-align: center;
+            font-size: large;
+        }
+        /*یک باکس بزرگ سبز رنگ ایجاد کرده و سوالات را داخل ان ریخته*/
+        .t {
+            background-color: lightgreen;
+            color: blueviolet;
+            /*padding:50px;*/
+            padding top:5px;
+            padding bottom:5px;
+            padding-left: 20px;
+        }
+
+        .o {
+            /*به ان یک سایه میدهیم*/
+            text-shadow: +13px +10px Lightgrey;
+        }
+
+                .wrapper {
+            padding: 5px;
+            background: #f0e68c;
+            margin: 2px 0;
+            width:950px;
+            display:inline-block;
+        }
+
+
+             input[type="radio"]{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+
+  border: 2px solid #999;
+  transition: 0.2s all linear;
+  outline: none;
+  margin-right: 5px;
+
+  position: relative;
+  top: 4px;
+}
+        /*وقتی روی ان کلیک کردی رنگش عوض میشه*/
+                input[type="radio"]:checked {
+                    border: 6px solid black;
+                }
+              /*برای دکمه نتیجه که وسط قرار بگیره باید داخل دیو و به ان به شکل زیر استایل داد*/ 
+ .result{
+     position:relative;
+     right:600px;
+    
+ }
+
+        .frame {
+            border: 2px solid green;
+        }

@@ -1,0 +1,33 @@
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\ApplicationInsights.config
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\csc.exe
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\vbc.exe
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\VBCSCompiler.exe
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\4gozine asli.dll.config
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\4gozine asli.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\4gozine asli.pdb
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.Web.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.Web.xml
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\obj\Debug\4gozine asli.csprojResolveAssemblyReference.cache
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\obj\Debug\4gozine asli.dll
+C:\Users\Azadeh\Desktop\4gozine asli\4gozine asli\obj\Debug\4gozine asli.pdb
